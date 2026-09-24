@@ -1,0 +1,14 @@
+<!DOCTYPE html><html lang="vi"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"><title>Cốt truyện — Tắt đèn</title><link rel="stylesheet" href="style.css"></head><body>
+<header class="navbar"><a class="brand" href="index.html">TẮT ĐÈN</a><a class="back" href="kham-pha.html">← Quay lại</a></header>
+<main class="page">
+<header class="page-head"><p class="script">Tóm tắt</p><h2>Cốt Truyện</h2><p>Tóm lược số phận của chị Dậu trong xã hội thực dân phong kiến đầy áp bức, bất công.</p></header>
+<div class="container"><div class="story">
+<div class="card story-text">
+<p>Tắt đèn kể về cuộc đời của chị Dậu, một người phụ nữ nông dân nghèo phải đối mặt với sưu thuế và sự áp bức của chính quyền phong kiến.</p>
+<p>Gia đình chị Dậu nghèo túng nhưng vẫn phải đóng sưu cho chồng và cả khoản sưu của người em chồng đã chết. Để có tiền, chị phải bán đàn chó, bán khoai và cuối cùng phải bán đứa con gái đầu lòng là cái Tí.</p>
+<p>Khi anh Dậu đang ốm nặng, bọn cai lệ và người nhà lí trưởng đến thúc sưu, đánh đập và trói anh. Chị Dậu van xin nhưng không được. Bị dồn đến bước đường cùng, chị đã vùng lên chống trả cai lệ, bảo vệ chồng.</p>
+<p>Sau đó, dù đã cố gắng tìm cách cứu gia đình, chị Dậu vẫn tiếp tục rơi vào cảnh bế tắc. Tác phẩm khép lại bằng hình ảnh chị phải đối mặt với một tương lai đầy bất định.</p>
+<p class="story-end">Câu chuyện chân thực, xúc động về cuộc sống khốn khổ nhưng giàu tình yêu thương và sức phản kháng của người nông dân.</p>
+</div>
+<figure class="story-art"><img src="https://vanhay.vn/uploads/2016/09/01/chi-dau_040644.jpg" alt="Chị Dậu bán con và bán chó"><figcaption>Chị Dậu bán con và bán chó cho nhà Nghị Quế></figure>
+</div></div></main><footer><span>BÀI THỰC HÀNH NGỮ VĂN</span><span>© 10A6 14</span></footer><script src="script.js"></script></body></html>
